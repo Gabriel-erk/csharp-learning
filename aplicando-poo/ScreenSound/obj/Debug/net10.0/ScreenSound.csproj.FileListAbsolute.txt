@@ -1,0 +1,15 @@
+/home/gevferreira/Documentos/dev/csharp-learning/aplicando-poo/ScreenSound/bin/Debug/net10.0/ScreenSound
+/home/gevferreira/Documentos/dev/csharp-learning/aplicando-poo/ScreenSound/bin/Debug/net10.0/ScreenSound.deps.json
+/home/gevferreira/Documentos/dev/csharp-learning/aplicando-poo/ScreenSound/bin/Debug/net10.0/ScreenSound.runtimeconfig.json
+/home/gevferreira/Documentos/dev/csharp-learning/aplicando-poo/ScreenSound/bin/Debug/net10.0/ScreenSound.dll
+/home/gevferreira/Documentos/dev/csharp-learning/aplicando-poo/ScreenSound/bin/Debug/net10.0/ScreenSound.pdb
+/home/gevferreira/Documentos/dev/csharp-learning/aplicando-poo/ScreenSound/obj/Debug/net10.0/ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+/home/gevferreira/Documentos/dev/csharp-learning/aplicando-poo/ScreenSound/obj/Debug/net10.0/ScreenSound.AssemblyInfoInputs.cache
+/home/gevferreira/Documentos/dev/csharp-learning/aplicando-poo/ScreenSound/obj/Debug/net10.0/ScreenSound.AssemblyInfo.cs
+/home/gevferreira/Documentos/dev/csharp-learning/aplicando-poo/ScreenSound/obj/Debug/net10.0/ScreenSound.csproj.CoreCompileInputs.cache
+/home/gevferreira/Documentos/dev/csharp-learning/aplicando-poo/ScreenSound/obj/Debug/net10.0/ScreenSound.sourcelink.json
+/home/gevferreira/Documentos/dev/csharp-learning/aplicando-poo/ScreenSound/obj/Debug/net10.0/ScreenSound.dll
+/home/gevferreira/Documentos/dev/csharp-learning/aplicando-poo/ScreenSound/obj/Debug/net10.0/refint/ScreenSound.dll
+/home/gevferreira/Documentos/dev/csharp-learning/aplicando-poo/ScreenSound/obj/Debug/net10.0/ScreenSound.pdb
+/home/gevferreira/Documentos/dev/csharp-learning/aplicando-poo/ScreenSound/obj/Debug/net10.0/ScreenSound.genruntimeconfig.cache
+/home/gevferreira/Documentos/dev/csharp-learning/aplicando-poo/ScreenSound/obj/Debug/net10.0/ref/ScreenSound.dll
