@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "CsharpPlaygound/1.0.0": {
+        "runtime": {
+          "CsharpPlaygound.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CsharpPlaygound/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

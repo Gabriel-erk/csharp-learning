@@ -1,0 +1,15 @@
+/home/gevferreira/Documentos/dev/csharp-learning/aplicando-poo/CsharpPlaygound/obj/Debug/net10.0/CsharpPlaygound.GeneratedMSBuildEditorConfig.editorconfig
+/home/gevferreira/Documentos/dev/csharp-learning/aplicando-poo/CsharpPlaygound/obj/Debug/net10.0/CsharpPlaygound.AssemblyInfoInputs.cache
+/home/gevferreira/Documentos/dev/csharp-learning/aplicando-poo/CsharpPlaygound/obj/Debug/net10.0/CsharpPlaygound.AssemblyInfo.cs
+/home/gevferreira/Documentos/dev/csharp-learning/aplicando-poo/CsharpPlaygound/obj/Debug/net10.0/CsharpPlaygound.csproj.CoreCompileInputs.cache
+/home/gevferreira/Documentos/dev/csharp-learning/aplicando-poo/CsharpPlaygound/obj/Debug/net10.0/CsharpPlaygound.sourcelink.json
+/home/gevferreira/Documentos/dev/csharp-learning/aplicando-poo/CsharpPlaygound/bin/Debug/net10.0/CsharpPlaygound
+/home/gevferreira/Documentos/dev/csharp-learning/aplicando-poo/CsharpPlaygound/bin/Debug/net10.0/CsharpPlaygound.deps.json
+/home/gevferreira/Documentos/dev/csharp-learning/aplicando-poo/CsharpPlaygound/bin/Debug/net10.0/CsharpPlaygound.runtimeconfig.json
+/home/gevferreira/Documentos/dev/csharp-learning/aplicando-poo/CsharpPlaygound/bin/Debug/net10.0/CsharpPlaygound.dll
+/home/gevferreira/Documentos/dev/csharp-learning/aplicando-poo/CsharpPlaygound/bin/Debug/net10.0/CsharpPlaygound.pdb
+/home/gevferreira/Documentos/dev/csharp-learning/aplicando-poo/CsharpPlaygound/obj/Debug/net10.0/CsharpPlaygound.dll
+/home/gevferreira/Documentos/dev/csharp-learning/aplicando-poo/CsharpPlaygound/obj/Debug/net10.0/refint/CsharpPlaygound.dll
+/home/gevferreira/Documentos/dev/csharp-learning/aplicando-poo/CsharpPlaygound/obj/Debug/net10.0/CsharpPlaygound.pdb
+/home/gevferreira/Documentos/dev/csharp-learning/aplicando-poo/CsharpPlaygound/obj/Debug/net10.0/CsharpPlaygound.genruntimeconfig.cache
+/home/gevferreira/Documentos/dev/csharp-learning/aplicando-poo/CsharpPlaygound/obj/Debug/net10.0/ref/CsharpPlaygound.dll
