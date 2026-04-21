@@ -1,4 +1,4 @@
-namespace ModelExercicioConta
+namespace ModelTa
 {
     class ContaBancariaTa
     {
