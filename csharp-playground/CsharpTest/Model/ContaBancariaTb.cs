@@ -1,6 +1,6 @@
-namespace ModelTa
+namespace ModelTb
 {
-    class ContaBancariaTa
+    class ContaBancariaTb
     {
         public int id;
         public string titular;
