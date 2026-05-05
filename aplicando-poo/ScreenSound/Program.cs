@@ -1,16 +1,16 @@
 ﻿using Model;
 
 Musica musica1 = new Musica();
-musica1.nome = "Roxanne";
-musica1.artista = "Ai so nibuligs";
-musica1.duracao = 5;
-musica1.disponivel = true;
+musica1.Nome = "Roxanne";
+musica1.Artista = "Ai so nibuligs";
+musica1.Duracao = 5;
+musica1.Disponivel = false;
 
 Musica muscia2 = new Musica();
-muscia2.nome = "Addison rae";
-muscia2.artista = "The KID Laroi";
-muscia2.duracao = 3;
-muscia2.disponivel = false;
+muscia2.Nome = "Addison rae";
+muscia2.Artista = "The KID Laroi";
+muscia2.Duracao = 3;
+muscia2.Disponivel = false;
 
 musica1.ExibirFichaTecnica();
 System.Console.WriteLine("---------");
