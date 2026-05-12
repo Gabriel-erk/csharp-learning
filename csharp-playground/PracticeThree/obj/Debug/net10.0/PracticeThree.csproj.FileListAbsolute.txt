@@ -1,0 +1,15 @@
+/home/gevferreira/Documentos/dev/csharp-learning/csharp-playground/PracticeThree/obj/Debug/net10.0/PracticeThree.GeneratedMSBuildEditorConfig.editorconfig
+/home/gevferreira/Documentos/dev/csharp-learning/csharp-playground/PracticeThree/obj/Debug/net10.0/PracticeThree.AssemblyInfoInputs.cache
+/home/gevferreira/Documentos/dev/csharp-learning/csharp-playground/PracticeThree/obj/Debug/net10.0/PracticeThree.AssemblyInfo.cs
+/home/gevferreira/Documentos/dev/csharp-learning/csharp-playground/PracticeThree/obj/Debug/net10.0/PracticeThree.csproj.CoreCompileInputs.cache
+/home/gevferreira/Documentos/dev/csharp-learning/csharp-playground/PracticeThree/obj/Debug/net10.0/PracticeThree.sourcelink.json
+/home/gevferreira/Documentos/dev/csharp-learning/csharp-playground/PracticeThree/bin/Debug/net10.0/PracticeThree
+/home/gevferreira/Documentos/dev/csharp-learning/csharp-playground/PracticeThree/bin/Debug/net10.0/PracticeThree.deps.json
+/home/gevferreira/Documentos/dev/csharp-learning/csharp-playground/PracticeThree/bin/Debug/net10.0/PracticeThree.runtimeconfig.json
+/home/gevferreira/Documentos/dev/csharp-learning/csharp-playground/PracticeThree/bin/Debug/net10.0/PracticeThree.dll
+/home/gevferreira/Documentos/dev/csharp-learning/csharp-playground/PracticeThree/bin/Debug/net10.0/PracticeThree.pdb
+/home/gevferreira/Documentos/dev/csharp-learning/csharp-playground/PracticeThree/obj/Debug/net10.0/PracticeThree.dll
+/home/gevferreira/Documentos/dev/csharp-learning/csharp-playground/PracticeThree/obj/Debug/net10.0/refint/PracticeThree.dll
+/home/gevferreira/Documentos/dev/csharp-learning/csharp-playground/PracticeThree/obj/Debug/net10.0/PracticeThree.pdb
+/home/gevferreira/Documentos/dev/csharp-learning/csharp-playground/PracticeThree/obj/Debug/net10.0/PracticeThree.genruntimeconfig.cache
+/home/gevferreira/Documentos/dev/csharp-learning/csharp-playground/PracticeThree/obj/Debug/net10.0/ref/PracticeThree.dll
