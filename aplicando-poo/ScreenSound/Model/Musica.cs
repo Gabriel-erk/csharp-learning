@@ -25,7 +25,7 @@ namespace Model
         {
             // para colocar váriaveis com texto no c# (ou seja, interpolação de string)== $"Nosso texto aqui: {variavel/atributo aqui}" 
             Console.WriteLine($"Nome: {Nome}");
-            System.Console.WriteLine($"Artista: {Artista}");
+            System.Console.WriteLine($"Artista: {Artista.Nome}");
             System.Console.WriteLine($"Duração em minutos: {Duracao}");
             if (Disponivel)
             {
