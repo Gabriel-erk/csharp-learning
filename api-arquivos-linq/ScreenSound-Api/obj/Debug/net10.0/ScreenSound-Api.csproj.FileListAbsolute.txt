@@ -1,0 +1,15 @@
+/home/gevferreira/Documentos/dev/csharp-learning/api-arquivos-linq/ScreenSound-Api/bin/Debug/net10.0/ScreenSound-Api
+/home/gevferreira/Documentos/dev/csharp-learning/api-arquivos-linq/ScreenSound-Api/bin/Debug/net10.0/ScreenSound-Api.deps.json
+/home/gevferreira/Documentos/dev/csharp-learning/api-arquivos-linq/ScreenSound-Api/bin/Debug/net10.0/ScreenSound-Api.runtimeconfig.json
+/home/gevferreira/Documentos/dev/csharp-learning/api-arquivos-linq/ScreenSound-Api/bin/Debug/net10.0/ScreenSound-Api.dll
+/home/gevferreira/Documentos/dev/csharp-learning/api-arquivos-linq/ScreenSound-Api/bin/Debug/net10.0/ScreenSound-Api.pdb
+/home/gevferreira/Documentos/dev/csharp-learning/api-arquivos-linq/ScreenSound-Api/obj/Debug/net10.0/ScreenSound-Api.GeneratedMSBuildEditorConfig.editorconfig
+/home/gevferreira/Documentos/dev/csharp-learning/api-arquivos-linq/ScreenSound-Api/obj/Debug/net10.0/ScreenSound-Api.AssemblyInfoInputs.cache
+/home/gevferreira/Documentos/dev/csharp-learning/api-arquivos-linq/ScreenSound-Api/obj/Debug/net10.0/ScreenSound-Api.AssemblyInfo.cs
+/home/gevferreira/Documentos/dev/csharp-learning/api-arquivos-linq/ScreenSound-Api/obj/Debug/net10.0/ScreenSound-Api.csproj.CoreCompileInputs.cache
+/home/gevferreira/Documentos/dev/csharp-learning/api-arquivos-linq/ScreenSound-Api/obj/Debug/net10.0/ScreenSound-Api.sourcelink.json
+/home/gevferreira/Documentos/dev/csharp-learning/api-arquivos-linq/ScreenSound-Api/obj/Debug/net10.0/ScreenSound-Api.dll
+/home/gevferreira/Documentos/dev/csharp-learning/api-arquivos-linq/ScreenSound-Api/obj/Debug/net10.0/refint/ScreenSound-Api.dll
+/home/gevferreira/Documentos/dev/csharp-learning/api-arquivos-linq/ScreenSound-Api/obj/Debug/net10.0/ScreenSound-Api.pdb
+/home/gevferreira/Documentos/dev/csharp-learning/api-arquivos-linq/ScreenSound-Api/obj/Debug/net10.0/ScreenSound-Api.genruntimeconfig.cache
+/home/gevferreira/Documentos/dev/csharp-learning/api-arquivos-linq/ScreenSound-Api/obj/Debug/net10.0/ref/ScreenSound-Api.dll
